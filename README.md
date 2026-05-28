@@ -4,7 +4,7 @@ Kawase (為替) — A minimalist Python CLI currency converter featuring live AP
 ### 📝 Description
 This repository contains a simple console-based currency converter application written in Python. It fetches real-time exchange rates for major currencies relative to the Euro (EUR) using a public API and provides an interactive CLI for currency exchange calculations.
 
-> ⚠️ **Note:** This project is created **strictly for testing and demonstration purposes** (просто тест).
+> ⚠️ **Note:** This project is created **strictly for testing and demonstration purposes**.
 
 ### 🚀 Features
 * **Real-time Rates:** Fetches live data from an external currency API.
